@@ -4,7 +4,8 @@ Projeto educacional de um **clone da interface do Disney+**, desenvolvido como p
 
 O objetivo foi reproduzir a experiência visual da plataforma, incluindo seções de conteúdo, planos, dispositivos compatíveis e perguntas frequentes.
 
-🔗 Projeto online: (Ver aplicação)[https://clone-disneyplus-rho-nine.vercel.app/]
+🔗 Projeto online: 
+[Ver aplicação](https://clone-disneyplus-rho-nine.vercel.app/)
 
 ---
 
